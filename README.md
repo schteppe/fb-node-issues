@@ -1,6 +1,6 @@
 # fb-node-issues
 
-Public issue tracker for development of [beta.friendship-bracelets.net](http://beta.friendship-bracelets.net).
+Public issue tracker for development of the beta site.
 
 ## Instructions
 
@@ -9,6 +9,12 @@ Public issue tracker for development of [beta.friendship-bracelets.net](http://b
 3. Repeat.
 
 ## Change log
+
+### 2014-06-22: Working front page
+* Database and other required things are set up. Everything seem to work.
+
+### 2014-06-20: Moved beta site to Heroku
+* The site is now moving to a new site host and database. The URL to it is right now http://fb-stage.herokuapp.com/. Will probably point the beta url to this one soon.
 
 ### 2012-04-04: Updated live site
 * Upgraded live site so it runs the latest version of the site.
