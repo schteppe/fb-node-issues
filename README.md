@@ -4,32 +4,6 @@ Public issue tracker for development of the beta site.
 
 ## Instructions
 
-1. Use the site normally.
+1. Read the instructions on the [beta site front page](http://fb-stage.herokuapp.com/).
 2. When you find a bug or get an idea how to make the site better: [Search the issues](https://github.com/schteppe/fb-node-issues/issues) to see if it was filed earlier. If not, [file a new issue](https://github.com/schteppe/fb-node-issues/issues/new).
 3. Repeat.
-
-## Change log
-
-### 2014-06-22: Working front page
-* Database and other required things are set up. Everything seem to work.
-
-### 2014-06-20: Moved beta site to Heroku
-* The site is now moving to a new site host and database. The URL to it is right now http://fb-stage.herokuapp.com/. Will probably point the beta url to this one soon.
-
-### 2012-04-04: Updated live site
-* Upgraded live site so it runs the latest version of the site.
-
-### 2012-04-03: Issue tracker on Github
-* Created the [public Github repo](https://github.com/schteppe/fb-node-issues) for issue tracking
-* Started the cloud server again, hopefully more permanently this time.
-* Repointed the domain since the server IP changed.
-
-### 2012-01-20: Chat and messages
-* Chat prototype.
-* Added /messages, though most things does not work in it yet.
-
-### 2012-01-19: Beta server start!
-* Set up the cloud server.
-* Pointed the domain beta.friendship-bracelets.net to the server.
-* Fixed so that Nginx handles static files (images and scripts) to relax the main server app.
-* Started this change log.
